@@ -4,3 +4,4 @@ Understanding DevOps for Beginner and Beyond.
 - ## [Day-02 Apache TomCat Web Server](https://github.com/EmAdd9/My-DevOps-Journey.git)
 - ## [Day-03 Jenkins Automation in Software Development Workflow](https://github.com/EmAdd9/Jenkins-Day03.git)
 - ## [Day-04 SonarQube Analysis](https://github.com/EmAdd9/SonarQube-Day04.git)
+- ## [Day-05 Dependency Check](https://github.com/EmAdd9/Dependency-Check.git)
