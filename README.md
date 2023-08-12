@@ -5,3 +5,4 @@ Understanding DevOps for Beginner and Beyond.
 - ## [Day-03 Jenkins Automation in Software Development Workflow](https://github.com/EmAdd9/Jenkins-Day03.git)
 - ## [Day-04 SonarQube Analysis](https://github.com/EmAdd9/SonarQube-Day04.git)
 - ## [Day-05 Dependency Check](https://github.com/EmAdd9/Dependency-Check.git)
+- ## [Day-06 Managing Artifacts with Nexus Repository Manager in DevOps](https://github.com/EmAdd9/Nexus-day-06.git)
