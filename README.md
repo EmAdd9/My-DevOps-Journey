@@ -8,3 +8,6 @@ Understanding DevOps for Beginner and Beyond.
 - ## [Day-06 Managing Artifacts with Nexus Repository Manager in DevOps](https://github.com/EmAdd9/Nexus-day-06.git)
 - ## [Day-07 Development and Deployment of a Web Application using Docker](https://github.com/EmAdd9/Docker-day07.git)
 - ## [Day-08 Kubernetes Deployment](https://github.com/EmAdd9/Kubernetes-Day08.git)
+- ## [Day-09 Azure DevOps]()
+- ## [Day-10 Terraform]()
+- ## [Day-11 Ansible]()
