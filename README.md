@@ -11,3 +11,5 @@ Understanding DevOps for Beginner and Beyond.
 - ## [Day-09 Azure DevOps](https://github.com/EmAdd9/Azure-DevOps.git)
 - ## [Day-10 Terraform](https://github.com/EmAdd9/Terraform-script.git)
 - ## [Day-11 Ansible](https://github.com/EmAdd9/Ansible-Script.git)
+- ## [Day-12 Grafana]()
+- ## [Practice DevOps Sample CI/CD Projects](https://github.com/EmAdd9/Pipeline-CI-CD-Project-Samples.git)
